@@ -1,3 +1,7 @@
+**Note**: please consider this project a proof of concept. I don't intend to maintain it or merge pull requests. Feel free to fork and build it into something great!
+
+### Introduction
+
 Presenting **Agent.exe**: the easiest way to let Claude's new [computer use](https://www.anthropic.com/news/3-5-models-and-computer-use) capabilities take over your computer!
 
 <img width="387" alt="buy pizza" src="https://github.com/user-attachments/assets/c11cc8f1-6dcb-48f4-9d18-682f14edb77d">
